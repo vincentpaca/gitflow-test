@@ -37,3 +37,5 @@ more changes
 and then some more changes
 
 this is a hotfix
+
+another hotfix
