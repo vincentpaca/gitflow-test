@@ -1,7 +1,7 @@
 PATH
   remote: ../ph_deploy
   specs:
-    ph_deploy (8.0.0)
+    ph_deploy (8.0.3)
       asana (~> 0.1.0)
       aws-sdk (~> 1.61)
       cap-ext-parallelize
